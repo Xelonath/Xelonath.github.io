@@ -5,12 +5,7 @@ import MainPage from './components/MainPage.vue';
 </script>
 
 <template>
-  <header>
-    <div class="wrapper">
-      <nav id="navigation">
-      </nav>
-    </div>
-  </header>
+  <MainPage></MainPage>
 </template>
 
 <style scoped>
